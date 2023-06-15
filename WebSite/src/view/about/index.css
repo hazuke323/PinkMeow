@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 2em;
+  color: white;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  color: white;
+}
+
+.declarations {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.description {
+  text-align: justify;
+  color: white;
+}
