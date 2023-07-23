@@ -1,0 +1,101 @@
+.detail-content{
+    width: 430px;
+    height: 474px;
+    position: relative;
+}
+.detail-car-back{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.detail-cat{
+    position: absolute;
+    top: 60px;
+    left: 90px;
+    z-index: 20;
+}
+.detail-name{
+    position: absolute;
+    top: 40px;
+    left: 255px;
+    z-index: 20;
+}
+.detail-presentation{
+    position: absolute;
+    top: 80px;
+    left: 255px;
+    z-index: 20;
+}
+.detail-grade{
+    position: absolute;
+    top: 220px;
+    left: 30px;
+    
+}
+.detail-empirical{
+    position: absolute;
+    top: 235px;
+    left: 115px;
+   
+}
+.detail-empirical1{
+    position: absolute;
+    top: 235px;
+    left: 115px; 
+}
+.detail-grade-number{
+    position: absolute;
+    top: 215px;
+    left: 280px; 
+}
+.detail-grade-value{
+    position: absolute;
+    top: 215px;
+    left: 185px; 
+}
+.detail-basic{
+    position: absolute;
+    top: 270px;
+    left: 30px; 
+}
+.detail-accompany{
+    position: absolute;
+    top: 305px;
+    left: 80px; 
+}
+.detail-weight{
+    position: absolute;
+    top: 310px;
+    left: 250px; 
+}
+.detail-birthday{
+    position: absolute;
+    top: 335px;
+    left: 80px; 
+}
+.detail-gold{
+    position: absolute;
+    top: 363px;
+    left: 30px; 
+}
+.detail-icon{
+    position: absolute;
+    top: 410px;
+    left: 60px; 
+}
+.detail-gold-value{
+    position: absolute;
+    top: 418px;
+    left: 110px; 
+}
+.detail-operate{
+    position: absolute;
+    top: 425px;
+    left: 300px; 
+    z-index: 20;
+}
+.detail-operate-border{
+    position: absolute;
+    top: 410px;
+    left: 288px; 
+}

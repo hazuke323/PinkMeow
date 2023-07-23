@@ -1,0 +1,69 @@
+.play-content {
+  width: 518px;
+  height: 1121px;
+  background-color: #000000;
+  margin-left: 200px;
+  position: relative;
+}
+
+.cat-state {
+  width: 100%;
+  height: 30px;
+  background-color: pink;
+}
+
+.score-back {
+  /* margin-top: 95px; */
+  width: 100%;
+  height: 30px;
+  background-color: rgb(70, 42, 104);
+}
+
+.playing-background {
+  width: 100%;
+  height: calc(1121px - 95px);
+  /* margin-top: 95px; */
+}
+.playing-cat {
+  position: absolute;
+  top: 665px;
+  left: 205px;
+  z-index: 10;
+}
+.playing-polygon {
+  position: absolute;
+  top: 610px;
+  left: 170px;
+  z-index: 15;
+}
+.playing-food {
+  position: absolute;
+  top: 620px;
+  left: 180px;
+  z-index: 15;
+}
+.playing-box {
+  position: absolute;
+  top: 950px;
+  left: 420px;
+}
+.playing-home {
+  position: absolute;
+  top: 960px;
+  left: 35px;
+}
+.play-detail {
+  position: absolute;
+  top: 260px;
+  left: 45px;
+  z-index: 40;
+}
+.play-active {
+  display: none;
+}
+.playing-cancel {
+  position: absolute;
+  top: 750px;
+  left: 230px;
+  z-index: 20;
+}

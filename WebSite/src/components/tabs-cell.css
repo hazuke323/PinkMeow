@@ -1,0 +1,48 @@
+.tab_cell{
+    padding: 10px 10px;
+    padding-bottom: 2px;
+    position: relative;
+}
+.tab_top{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #BD6EAC;
+}
+.title{
+    margin-left: 5px;
+}
+.title_icon{
+    /* display: flex; */
+}
+.tab_bottom{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.tab_bottom_item{
+    padding: 20px 9px;
+    padding-bottom: 16px;
+    border-radius: 8px;
+    background: #ECA1DC;
+    margin: 6px 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.img{
+    position: relative;
+    top: -4px;
+}
+.num{
+    position: absolute;
+    top: 55px;
+    left: 15px;
+    margin-left: 5px;
+    font-size: 12px;
+    display: flex;
+}
+.icon{
+    width: 12px;
+    height: 12px;
+}
