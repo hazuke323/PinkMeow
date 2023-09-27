@@ -1,0 +1,24 @@
+{
+  "__version__": "1.0.0",
+  "show": true,
+  "config": {
+    "images": [
+      {
+        "path": "F:\\oldCode\\PinkMCat\\20230817134822.png",
+        "x": 0,
+        "y": 0,
+        "sx": 1,
+        "sy": 1,
+        "opacity": 150
+      }
+    ],
+    "sceneUUID": {
+      "85c2ac86-811f-4f17-839b-c86cb72b2628": {
+        "path": "F:\\oldCode\\PinkMCat\\20230817134822.png"
+      }
+    },
+    "scene": "85c2ac86-811f-4f17-839b-c86cb72b2628"
+  },
+  "root-path": "F:\\oldCode\\PinkMCat",
+  "opacity": 150
+}

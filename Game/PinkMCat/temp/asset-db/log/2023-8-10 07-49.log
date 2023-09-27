@@ -1,0 +1,320 @@
+2023-8-10 07:49:53-debug: asset-db:worker-init (1408ms)
+2023-8-10 07:49:54-debug: Preimport db internal success
+2023-8-10 07:49:54-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/cat.tsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 07:49:54-debug: Preimport db assets success
+2023-8-10 07:49:54-debug: asset-db:worker-effect-data-processing (190ms)
+2023-8-10 07:50:23-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-8-10 07:50:23-debug: Start up the 'internal' database...
+2023-8-10 07:50:23-debug: asset-db:worker-init-script (4ms)
+2023-8-10 07:50:23-debug: start asset-db with asset: 419
+2023-8-10 07:50:23-debug: Start up the 'assets' database...
+2023-8-10 07:50:23-debug: start asset-db with asset: 35
+2023-8-10 07:50:24-debug: asset-db:worker-startup-database[internal] (29365ms)
+2023-8-10 07:50:24-debug: asset-db:worker-startup-database[assets] (29274ms)
+2023-8-10 07:50:24-debug: Asset DB is ready!
+2023-8-10 07:50:24-debug: init worker message success
+2023-8-10 07:50:26-debug: builder:worker-init (2340ms)
+2023-8-10 07:50:28-debug: programming:execute-script (3ms)
+2023-8-10 08:14:51-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.js...
+2023-8-10 08:14:51-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.jsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:14:51-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf success
+2023-8-10 08:14:51-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:14:53-debug: refresh db internal success
+2023-8-10 08:14:53-debug: asset-db:worker-effect-data-processing (210ms)
+2023-8-10 08:14:53-debug: refresh db assets success
+2023-8-10 08:14:53-debug: asset-db:refresh-all-database (272ms)
+2023-8-10 08:17:04-debug: refresh db internal success
+2023-8-10 08:17:04-debug: asset-db:worker-effect-data-processing (188ms)
+2023-8-10 08:17:04-debug: refresh db assets success
+2023-8-10 08:17:04-debug: asset-db:refresh-all-database (237ms)
+2023-8-10 08:17:12-debug: refresh db internal success
+2023-8-10 08:17:12-debug: asset-db:worker-effect-data-processing (151ms)
+2023-8-10 08:17:12-debug: refresh db assets success
+2023-8-10 08:17:12-debug: asset-db:refresh-all-database (199ms)
+2023-8-10 08:17:26-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 08:17:26-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:17:26-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource success
+2023-8-10 08:17:26-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resourcebackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:17:28-debug: refresh db internal success
+2023-8-10 08:17:28-debug: asset-db:worker-effect-data-processing (182ms)
+2023-8-10 08:17:28-debug: refresh db assets success
+2023-8-10 08:17:28-debug: asset-db:refresh-all-database (224ms)
+2023-8-10 08:17:37-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.js...
+2023-8-10 08:17:38-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.js...
+2023-8-10 08:17:38-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.jsbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 08:17:38-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf success
+2023-8-10 08:17:38-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.js success
+2023-8-10 08:17:38-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:17:47-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.js...
+2023-8-10 08:17:47-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.jsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:17:47-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf success
+2023-8-10 08:17:47-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:17:49-debug: refresh db internal success
+2023-8-10 08:17:49-debug: asset-db:worker-effect-data-processing (187ms)
+2023-8-10 08:17:49-debug: refresh db assets success
+2023-8-10 08:17:49-debug: asset-db:refresh-all-database (232ms)
+2023-8-10 08:17:59-debug: refresh db internal success
+2023-8-10 08:17:59-debug: asset-db:worker-effect-data-processing (153ms)
+2023-8-10 08:17:59-debug: refresh db assets success
+2023-8-10 08:17:59-debug: asset-db:refresh-all-database (198ms)
+2023-8-10 08:18:12-debug: refresh db internal success
+2023-8-10 08:18:12-debug: asset-db:worker-effect-data-processing (177ms)
+2023-8-10 08:18:12-debug: refresh db assets success
+2023-8-10 08:18:12-debug: asset-db:refresh-all-database (217ms)
+2023-8-10 08:18:23-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.jsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:18:23-debug: asset-db:reimport-asset533ea010-4c16-4555-a393-110042201117 (77ms)
+2023-8-10 08:28:24-debug: refresh db internal success
+2023-8-10 08:28:24-debug: asset-db:worker-effect-data-processing (225ms)
+2023-8-10 08:28:24-debug: refresh db assets success
+2023-8-10 08:28:24-debug: asset-db:refresh-all-database (299ms)
+2023-8-10 08:28:54-debug: refresh db internal success
+2023-8-10 08:28:55-debug: asset-db:worker-effect-data-processing (188ms)
+2023-8-10 08:28:55-debug: refresh db assets success
+2023-8-10 08:28:55-debug: asset-db:refresh-all-database (234ms)
+2023-8-10 08:29:12-debug: refresh db internal success
+2023-8-10 08:29:12-debug: asset-db:worker-effect-data-processing (169ms)
+2023-8-10 08:29:12-debug: refresh db assets success
+2023-8-10 08:29:12-debug: asset-db:refresh-all-database (210ms)
+2023-8-10 08:29:46-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:29:46-debug: asset-db:reimport-assete2707e0a-d219-4cd5-a6eb-bac7b12218f1 (4ms)
+2023-8-10 08:30:26-debug: refresh db internal success
+2023-8-10 08:30:26-debug: asset-db:worker-effect-data-processing (191ms)
+2023-8-10 08:30:26-debug: refresh db assets success
+2023-8-10 08:30:26-debug: asset-db:refresh-all-database (229ms)
+2023-8-10 08:30:32-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/alert.prefab...
+2023-8-10 08:30:32-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/alert.prefab...
+2023-8-10 08:30:32-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/alert.prefabbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 08:30:32-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf success
+2023-8-10 08:30:32-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/alert.prefab success
+2023-8-10 08:30:33-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:30:54-debug: refresh db internal success
+2023-8-10 08:30:54-debug: asset-db:worker-effect-data-processing (185ms)
+2023-8-10 08:30:54-debug: refresh db assets success
+2023-8-10 08:30:54-debug: asset-db:refresh-all-database (224ms)
+2023-8-10 08:32:06-debug: refresh db internal success
+2023-8-10 08:32:06-debug: asset-db:worker-effect-data-processing (183ms)
+2023-8-10 08:32:06-debug: refresh db assets success
+2023-8-10 08:32:06-debug: asset-db:refresh-all-database (220ms)
+2023-8-10 08:32:40-debug: refresh db internal success
+2023-8-10 08:32:40-debug: asset-db:worker-effect-data-processing (154ms)
+2023-8-10 08:32:40-debug: refresh db assets success
+2023-8-10 08:32:40-debug: asset-db:refresh-all-database (189ms)
+2023-8-10 08:33:05-debug: refresh db internal success
+2023-8-10 08:33:05-debug: asset-db:worker-effect-data-processing (191ms)
+2023-8-10 08:33:05-debug: refresh db assets success
+2023-8-10 08:33:05-debug: asset-db:refresh-all-database (225ms)
+2023-8-10 08:33:16-debug: refresh db internal success
+2023-8-10 08:33:17-debug: asset-db:worker-effect-data-processing (156ms)
+2023-8-10 08:33:17-debug: refresh db assets success
+2023-8-10 08:33:17-debug: asset-db:refresh-all-database (195ms)
+2023-8-10 08:33:26-debug: refresh db internal success
+2023-8-10 08:33:26-debug: asset-db:worker-effect-data-processing (183ms)
+2023-8-10 08:33:26-debug: refresh db assets success
+2023-8-10 08:33:26-debug: asset-db:refresh-all-database (216ms)
+2023-8-10 08:34:20-debug: refresh db internal success
+2023-8-10 08:34:21-debug: asset-db:worker-effect-data-processing (240ms)
+2023-8-10 08:34:21-debug: refresh db assets success
+2023-8-10 08:34:21-debug: asset-db:refresh-all-database (301ms)
+2023-8-10 08:34:25-debug: refresh db internal success
+2023-8-10 08:34:25-debug: asset-db:worker-effect-data-processing (141ms)
+2023-8-10 08:34:25-debug: refresh db assets success
+2023-8-10 08:34:25-debug: asset-db:refresh-all-database (174ms)
+2023-8-10 08:34:44-debug: refresh db internal success
+2023-8-10 08:34:44-debug: asset-db:worker-effect-data-processing (180ms)
+2023-8-10 08:34:44-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Start.tsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:34:44-debug: refresh db assets success
+2023-8-10 08:34:44-debug: asset-db:refresh-all-database (214ms)
+2023-8-10 08:35:17-debug: refresh db internal success
+2023-8-10 08:35:17-debug: asset-db:worker-effect-data-processing (158ms)
+2023-8-10 08:35:17-debug: refresh db assets success
+2023-8-10 08:35:17-debug: asset-db:refresh-all-database (194ms)
+2023-8-10 08:35:21-debug: refresh db internal success
+2023-8-10 08:35:21-debug: asset-db:worker-effect-data-processing (168ms)
+2023-8-10 08:35:21-debug: refresh db assets success
+2023-8-10 08:35:21-debug: asset-db:refresh-all-database (200ms)
+2023-8-10 08:35:49-debug: refresh db internal success
+2023-8-10 08:35:49-debug: asset-db:worker-effect-data-processing (174ms)
+2023-8-10 08:35:49-debug: refresh db assets success
+2023-8-10 08:35:49-debug: asset-db:refresh-all-database (207ms)
+2023-8-10 08:36:36-debug: refresh db internal success
+2023-8-10 08:36:36-debug: asset-db:worker-effect-data-processing (179ms)
+2023-8-10 08:36:36-debug: refresh db assets success
+2023-8-10 08:36:36-debug: asset-db:refresh-all-database (214ms)
+2023-8-10 08:36:54-debug: refresh db internal success
+2023-8-10 08:36:54-debug: refresh db assets success
+2023-8-10 08:36:54-debug: asset-db:worker-effect-data-processing (217ms)
+2023-8-10 08:36:54-debug: asset-db:refresh-all-database (253ms)
+2023-8-10 08:36:58-debug: refresh db internal success
+2023-8-10 08:36:58-debug: refresh db assets success
+2023-8-10 08:36:59-debug: asset-db:worker-effect-data-processing (160ms)
+2023-8-10 08:36:59-debug: asset-db:refresh-all-database (191ms)
+2023-8-10 08:38:26-debug: refresh db internal success
+2023-8-10 08:38:26-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.jsbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 08:38:27-debug: asset-db:worker-effect-data-processing (259ms)
+2023-8-10 08:38:27-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.jsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:38:27-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GMbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:38:27-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:38:27-debug: refresh db assets success
+2023-8-10 08:38:27-debug: asset-db:refresh-all-database (310ms)
+2023-8-10 08:56:38-debug: refresh db internal success
+2023-8-10 08:56:38-debug: asset-db:worker-effect-data-processing (208ms)
+2023-8-10 08:56:38-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Start.tsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 08:56:38-debug: refresh db assets success
+2023-8-10 08:56:38-debug: asset-db:refresh-all-database (271ms)
+2023-8-10 08:56:42-debug: Query all assets info in project
+2023-8-10 08:56:42-debug: BuildAssetLibrary query-assets with assets 524
+2023-8-10 08:56:42-debug:   Number of all scenes: 2
+2023-8-10 08:56:42-debug:   Number of other assets: 374
+2023-8-10 08:56:42-debug:   Number of all scripts: 5
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 194.66MB rss 303.59MB
+2023-8-10 08:56:42-debug: 查询 Asset Bundle start0%
+2023-8-10 08:56:42-debug: // ---- build task 查询 Asset Bundle ----
+2023-8-10 08:56:42-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-8-10 08:56:42-debug: // ---- build task 查询 Asset Bundle ---- (11ms)
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 196.34MB rss 304.02MB
+2023-8-10 08:56:42-debug: init bundle assets
+2023-8-10 08:56:42-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-8-10 08:56:42-debug: run build task 查询 Asset Bundle success in 11 ms √3%
+2023-8-10 08:56:42-debug: 查询使用的资源以及资源包配置 start3%
+2023-8-10 08:56:42-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-8-10 08:56:42-debug: Number of scenes: 2
+2023-8-10 08:56:42-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (4ms)
+2023-8-10 08:56:42-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-8-10 08:56:42-debug: sort script group...
+2023-8-10 08:56:42-debug: 整理脚本分组与脚本数据 start7%
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 196.47MB rss 304.05MB
+2023-8-10 08:56:42-debug: run build task 查询使用的资源以及资源包配置 success in 4 ms √7%
+2023-8-10 08:56:42-debug: // ---- build task 整理脚本分组与脚本数据 ---- (1ms)
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 196.50MB rss 304.06MB
+2023-8-10 08:56:42-debug: 初始化 settings.json 与 config.json start10%
+2023-8-10 08:56:42-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-8-10 08:56:42-debug: run build task 整理脚本分组与脚本数据 success in 1 ms √10%
+2023-8-10 08:56:42-debug: // ---- build task 初始化 settings.json 与 config.json ---- (1ms)
+2023-8-10 08:56:42-debug: // ---- build task builder.tasks.settings.macro ----
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 196.53MB rss 304.07MB
+2023-8-10 08:56:42-debug: builder.tasks.settings.macro start11%
+2023-8-10 08:56:42-debug: run build task 初始化 settings.json 与 config.json success in 1 ms √11%
+2023-8-10 08:56:42-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-8-10 08:56:42-debug: // ---- build task builder.tasks.settings.macro ---- (3ms)
+2023-8-10 08:56:42-debug: Process: heapTotal 222.32MB heapUsed 196.55MB rss 304.18MB
+2023-8-10 08:56:42-debug: 整理部分构建选项内数据到 settings.json start11%
+2023-8-10 08:56:42-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-8-10 08:56:42-debug: run build task builder.tasks.settings.macro success in 3 ms √11%
+2023-8-10 08:56:42-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (9ms)
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.88MB rss 304.31MB
+2023-8-10 08:56:42-debug: run build task 整理部分构建选项内数据到 settings.json success in 9 ms √12%
+2023-8-10 08:56:42-debug: custom joint texture layouts start12%
+2023-8-10 08:56:42-debug: // ---- build task custom joint texture layouts ----
+2023-8-10 08:56:42-debug: // ---- build task custom joint texture layouts ---- (2ms)
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.90MB rss 304.31MB
+2023-8-10 08:56:42-debug: custom joint physics start12%
+2023-8-10 08:56:42-debug: // ---- build task custom joint physics ----
+2023-8-10 08:56:42-debug: run build task custom joint texture layouts success in 2 ms √12%
+2023-8-10 08:56:42-debug: run build task custom joint physics success in 0 ms √13%
+2023-8-10 08:56:42-debug: 填充脚本数据到 settings.json start13%
+2023-8-10 08:56:42-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.92MB rss 304.32MB
+2023-8-10 08:56:42-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-8-10 08:56:42-debug: 填充场景数据到 settings.json start13%
+2023-8-10 08:56:42-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-8-10 08:56:42-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.94MB rss 304.32MB
+2023-8-10 08:56:42-debug: run build task 填充场景数据到 settings.json success in 0 ms √14%
+2023-8-10 08:56:42-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start14%
+2023-8-10 08:56:42-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.96MB rss 304.32MB
+2023-8-10 08:56:42-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ---- (1ms)
+2023-8-10 08:56:42-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-8-10 08:56:42-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start14%
+2023-8-10 08:56:42-debug: Process: heapTotal 222.57MB heapUsed 196.99MB rss 304.32MB
+2023-8-10 08:56:42-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 1 ms √14%
+2023-8-10 08:56:42-debug: options.md5Cache is false.
+2023-8-10 08:56:42-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 0 ms √15%
+2023-8-10 08:59:44-debug: refresh db internal success
+2023-8-10 08:59:44-debug: asset-db:worker-effect-data-processing (195ms)
+2023-8-10 08:59:44-debug: refresh db assets success
+2023-8-10 08:59:44-debug: asset-db:refresh-all-database (231ms)
+2023-8-10 08:59:58-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 08:59:58-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 08:59:58-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 08:59:58-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource success
+2023-8-10 08:59:58-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab success
+2023-8-10 08:59:58-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resourcebackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:04:28-debug: refresh db internal success
+2023-8-10 09:04:28-debug: asset-db:worker-effect-data-processing (215ms)
+2023-8-10 09:04:28-debug: refresh db assets success
+2023-8-10 09:04:28-debug: asset-db:refresh-all-database (261ms)
+2023-8-10 09:04:38-debug: refresh db internal success
+2023-8-10 09:04:38-debug: asset-db:worker-effect-data-processing (143ms)
+2023-8-10 09:04:38-debug: refresh db assets success
+2023-8-10 09:04:38-debug: asset-db:refresh-all-database (180ms)
+2023-8-10 09:04:52-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Al er.prefab...
+2023-8-10 09:04:52-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Al er.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:04:52-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource success
+2023-8-10 09:04:53-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resourcebackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:00-debug: start move asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Al er.prefab -> /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 09:05:00-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 09:05:00-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:00-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource success
+2023-8-10 09:05:00-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource...
+2023-8-10 09:05:00-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resourcebackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:00-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets success
+2023-8-10 09:05:00-debug: move asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Al er.prefab -> /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab success
+2023-8-10 09:05:06-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:06-debug: asset-db:reimport-asset5408c6dd-2709-4c76-87b6-91232a1cc7d9 (2ms)
+2023-8-10 09:05:17-debug: refresh db internal success
+2023-8-10 09:05:17-debug: asset-db:worker-effect-data-processing (208ms)
+2023-8-10 09:05:17-debug: refresh db assets success
+2023-8-10 09:05:17-debug: asset-db:refresh-all-database (254ms)
+2023-8-10 09:05:23-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.js...
+2023-8-10 09:05:23-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.js...
+2023-8-10 09:05:23-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.jsbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 09:05:23-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM success
+2023-8-10 09:05:23-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.js success
+2023-8-10 09:05:23-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GMbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:48-debug: refresh db internal success
+2023-8-10 09:05:48-debug: asset-db:worker-effect-data-processing (196ms)
+2023-8-10 09:05:48-debug: refresh db assets success
+2023-8-10 09:05:48-debug: asset-db:refresh-all-database (235ms)
+2023-8-10 09:05:49-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefab...
+2023-8-10 09:05:49-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:49-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM success
+2023-8-10 09:05:49-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GMbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:05:54-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefab...
+2023-8-10 09:05:54-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefab...
+2023-8-10 09:05:54-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefabbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 09:05:54-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM success
+2023-8-10 09:05:54-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Node.prefab success
+2023-8-10 09:05:54-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GMbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:06:00-debug: start remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 09:06:00-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab...
+2023-8-10 09:06:00-debug: %cDestroy%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefabbackground: #ffb8b8; color: #000;color: #000;
+2023-8-10 09:06:00-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource success
+2023-8-10 09:06:00-debug: remove asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resource/Alert.prefab success
+2023-8-10 09:06:00-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/resourcebackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:06:09-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.prefab...
+2023-8-10 09:06:09-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:06:09-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf success
+2023-8-10 09:06:09-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perfbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:08:39-debug: refresh db internal success
+2023-8-10 09:08:39-debug: asset-db:worker-effect-data-processing (177ms)
+2023-8-10 09:08:39-debug: refresh db assets success
+2023-8-10 09:08:39-debug: asset-db:refresh-all-database (217ms)
+2023-8-10 09:26:19-debug: refresh db internal success
+2023-8-10 09:26:20-debug: asset-db:worker-effect-data-processing (229ms)
+2023-8-10 09:26:20-debug: refresh db assets success
+2023-8-10 09:26:20-debug: asset-db:refresh-all-database (296ms)
+2023-8-10 09:26:32-debug: start refresh asset from /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.ts...
+2023-8-10 09:26:32-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM/Alert.tsbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:26:32-debug: refresh asset /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GM success
+2023-8-10 09:26:32-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/GMbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:26:42-debug: %cImport%c: /Users/huwenting/Documents/Web3Pink/PinkMCat/assets/perf/Alert.prefabbackground: #aaff85; color: #000;color: #000;
+2023-8-10 09:26:42-debug: asset-db:reimport-asset989b1e92-9c25-427f-91d8-bd4bdd8d7008 (3ms)
+2023-8-10 09:27:20-debug: refresh db internal success
+2023-8-10 09:27:20-debug: asset-db:worker-effect-data-processing (210ms)
+2023-8-10 09:27:20-debug: refresh db assets success
+2023-8-10 09:27:20-debug: asset-db:refresh-all-database (248ms)
+2023-8-10 09:28:06-debug: refresh db internal success
+2023-8-10 09:28:06-debug: refresh db assets success
+2023-8-10 09:28:07-debug: asset-db:worker-effect-data-processing (227ms)
+2023-8-10 09:28:07-debug: asset-db:refresh-all-database (272ms)

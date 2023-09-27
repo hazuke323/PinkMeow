@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+        "version": "Darwin Kernel Version 21.6.0: Mon Aug 22 20:17:10 PDT 2022; root:xnu-8020.140.49~2/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "85c2ac86-811f-4f17-839b-c86cb72b2628": "/Users/huwenting/Documents/Web3Pink/PinkMCat/assets/play.scene"
+    },
+    "deviceMd5": "af14ba1a91a6417def5d7aae0e2f9a63"
+}
